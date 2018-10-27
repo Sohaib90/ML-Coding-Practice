@@ -1,5 +1,5 @@
 # 100-Days-of-ML-Code
-<h2> Day 1 : </h2>
+<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/Day1"> Day 1 : </a> </h2>
 <h3> Data Preprocessing for Machine Leanring Models </h3>
 <p> Things learned : </p>
 <ul>
