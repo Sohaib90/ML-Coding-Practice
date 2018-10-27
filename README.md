@@ -3,9 +3,9 @@
 <h3> Data Preprocessing for Machine Leanring Models </h3>
 <p> Things learned : </p>
 <ul>
-<li>Step 1: Data Selection Consider what data is available, what data is missing and what data can be removed.</li>
-<li>Step 2: Data Preprocessing Organize your selected data by formatting, cleaning and sampling from it. </li>
-<li>Step 3: Data Transformation Transform preprocessed data ready for machine learning by engineering features using scaling, attribute decomposition and attribute aggregation.</li>
+<li>Data Selection: Consider what data is available, what data is missing and what data can be removed.</li>
+<li>Data Preprocessing: Organize selected data by formatting, cleaning and sampling from it. </li>
+<li>Data Transformation: Transform preprocessed data ready for machine learning by engineering features using scaling, attribute decomposition and attribute aggregation.</li>
   <li> Used numpy, matplotlib, numpy and sklearn libraries to handle, visualize and manipulate data </li>
 </ul>
 
