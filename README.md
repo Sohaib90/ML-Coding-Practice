@@ -1,6 +1,6 @@
 # 100-Days-of-ML-Code
 <h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/Day1"> Day 1 : </a> </h2>
-<h3> Data Preprocessing for Machine Leanring Models </h3>
+<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/Day1/Data%20Pre-processing%20.ipynb"> Data Preprocessing for Machine Leanring Models</a> </h3>
 <p> Things learned : </p>
 <ul>
 <li>Data Selection: Consider what data is available, what data is missing and what data can be removed.</li>
