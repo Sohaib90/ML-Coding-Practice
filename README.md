@@ -10,7 +10,7 @@
 </ul>
 
 
-<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/Day1"> Day 2 : </a> </h2>
+<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/Day%202"> Day 2 : </a> </h2>
 <h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/Day1/Data%20Pre-processing%20.ipynb"> Support Vector Machines: Implementation in Python </a> </h3>
 <p> Things learned : </p>
 <ul>
