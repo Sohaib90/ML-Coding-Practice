@@ -21,7 +21,7 @@
 
 <h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/Day%203"> Day 3 : </a> </h2>
 <h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/Day%203/Decision-Trees-From-Scratch%20.ipynb"> Decison Trees: Implementation in Python (also sklearn implementation) </a> </h3>
-<p> Things learned : </p>
+<p> Things learned : (tutorial helps from machinelearningmastery) </p>
 <ul>
 <li>How Decision Trees work</li>
 <li>Splits made on the basis of entropy or Gini Index</li>
