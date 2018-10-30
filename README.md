@@ -28,3 +28,12 @@
 <li>Implementation in sklearn and from scratch</li>
 </ul>
 
+<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/Day%204"> Day 4 : </a> </h2>
+<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/Day%204"> Logistic Regression and Feed Forward network to recognize handwritten digites (Tensorflow) </a> </h3>
+<p> Things learned : (Fundamentals of Deep Learning, Chapter 3) </p>
+<ul>
+<li>Logistic Regression on MNIST Data</li>
+<li>Feed Forward Network on MNIST data and comparison</li>
+<li>Tensorflow implementation : using variable scope and name scope for network</li>
+</ul>
+
