@@ -38,7 +38,7 @@
 </ul>
 
 <h2> Day 5 : </h2>
-<h3> Beyond Gradient Descent (Chapter 4 of Fundamentals of Deep Learning by Nikhil Budma</h3>
+<h3> Beyond Gradient Descent (Chapter 4 of Fundamentals of Deep Learning by Nikhil Budma)</h3>
 <p> Things learned </p>
 <ul>
 <li>Challenges with Gradient Descent: Local Minima and their effect in deep learning error surfaces</li>
