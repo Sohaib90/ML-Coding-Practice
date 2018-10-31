@@ -37,3 +37,16 @@
 <li>Tensorflow implementation : using variable scope and name scope for network</li>
 </ul>
 
+<h2> Day 5 : </h2>
+<h3> Beyond Gradient Descent (Chapter 4 of Fundamentals of Deep Learning by Nikhil Budma</h3>
+<p> Things learned </p>
+<ul>
+<li>Challenges with Gradient Descent: Local Minima and their effect in deep learning error surfaces</li>
+<li>Momentum based Optimization: keeping memory of grdients for smoother error surfaces</li>
+<li>Learning Rate Adaptation: (1) Adagrad  (2) RMSProp  (3) Adam </li>
+  <li> Adagrad accumaltes and adapts the global learning rate using istorical gradients </li>
+  <li> RMSProp is exponentially weighted moving average of gradients: it enables us to "toss out" measurements we made a long time ago </li>
+  <li> Adam is the variant of both RMSProp and AutoGrad </li>
+</ul>
+
+
