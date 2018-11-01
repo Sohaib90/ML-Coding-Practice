@@ -49,4 +49,13 @@
   <li> Adam is the variant of both RMSProp and AutoGrad </li>
 </ul>
 
+<h2> Day 6 : </h2>
+<h3>MADL-Videos Day (Machine and Deep Learning- Videos Daya)</h3>
+<p> Watched Documentaries and videos relating ML and DL</p>
+<ul>
+<li><a href="https://www.netflix.com/watch/80190844?trackId=13752289&tctx=0%2C0%2C4a044771-5e15-4157-8f03-2e9481d9a476-103080659%2C%2C">Watched AlphaGo Documentary to learn how the game was built to be smart enough to beat the world champion</a></li>
+  <li><a href="https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn?language=en#t-1173351">Watched Jeremy Howard's account on machine learning and computer vision integrated with machine learning </a></li>
+  <li><a href="https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures#t-1052631"> Fei-Fei Li: How we're teaching computers to understand pictures </a></li>
+</ul>
+
 
