@@ -50,7 +50,7 @@
 </ul>
 
 <h2> Day 6 : </h2>
-<h3>MADL-Videos Day (Machine and Deep Learning- Videos Daya)</h3>
+<h3>MADL-Videos Day (Machine and Deep Learning- Videos Day)</h3>
 <p> Watched Documentaries and videos relating ML and DL</p>
 <ul>
 <li><a href="https://www.netflix.com/watch/80190844?trackId=13752289&tctx=0%2C0%2C4a044771-5e15-4157-8f03-2e9481d9a476-103080659%2C%2C">Watched AlphaGo Documentary to learn how the game was built to be smart enough to beat the world champion</a></li>
