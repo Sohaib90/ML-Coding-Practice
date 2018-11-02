@@ -58,4 +58,14 @@
   <li><a href="https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures#t-1052631"> Fei-Fei Li: How we're teaching computers to understand pictures </a></li>
 </ul>
 
+<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/Day%207"> Day 7 : </a></h2>
+<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/Day%207/naive_bayes_classifier.ipynb">Naive Bayes Classification on diabetes dataset</a></h3>
+<p> Things learned </p>
+<ul>
+<li>Implementation of Naive Bayes Classifier in python</li>
+  <li>Class probability and attribute probability based classifier</li>
+  <li>Functions for class probabilities and attribute probabilities</li>
+  <li>More work required on the concepts </li>
+</ul>
+
 
