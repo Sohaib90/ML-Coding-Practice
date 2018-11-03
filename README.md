@@ -68,4 +68,13 @@
   <li>More work required on the concepts </li>
 </ul>
 
+<h2> Day 8 : </h2>
+<h3><a href="https://bloomberg.github.io/foml/#lectures">Lecture 2/3 of Bloomberg Foundation of Machine Learning: (2) Churn Prediction (3) Statistical Machine Learning</a></h3>
+<p> Things learned </p>
+<ul>
+<li>How to think about a machine learning problem</li>
+  <li>Howto think about the output and to analyse what we want to predict from the model</li>
+  <li>While thinking about features and input values, think about the availability of all the data at deployment time</li>
+</ul>
+
 
