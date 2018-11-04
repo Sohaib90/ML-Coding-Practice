@@ -77,4 +77,13 @@
   <li>While thinking about features and input values, think about the availability of all the data at deployment time</li>
 </ul>
 
+<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/Day%209"> Day 9 : </a></h2>
+<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/Day%209/guess%20word.py">Speech Recognition with Python, a simple Guess word game</a></h3>
+<p> Things learned </p>
+<ul>
+<li>How to use speech recognition library in python for speech_recognition from microphone</li>
+  <li>Develop a small guessing game based on the recognized speech from microphone</li>
+  <li>Theory of how it all works</li>
+</ul>
+
 
