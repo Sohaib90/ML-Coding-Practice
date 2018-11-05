@@ -86,4 +86,13 @@
   <li>Theory of how it all works</li>
 </ul>
 
+<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/Day%2010"> Day 10 : </a></h2>
+<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/Day%2010/convolutional_neural_networks.ipynb">Convolutional Neural Networks: Introduction and Implementation</a></h3>
+<p> Things learned </p>
+<ul>
+<li>What are convolutional neural networks and what was the need? <li>
+  <li>What are filters and feature maps and how convolution helps extracting features</li>
+  <li>Implementation on MNIST data using Tensorflow</li>
+</ul>
+
 
