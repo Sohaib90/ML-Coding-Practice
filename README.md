@@ -1,6 +1,6 @@
 # 100-Days-of-ML-Code
-<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/Day1"> Day 1 : </a> </h2>
-<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/Day1/Data%20Pre-processing%20.ipynb"> Data Preprocessing for Machine Leanring Models</a> </h3>
+<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/code/Day1"> Day 1 : </a> </h2>
+<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/code/Day1/Data%20Pre-processing%20.ipynb"> Data Preprocessing for Machine Leanring Models</a> </h3>
 <p> Things learned : </p>
 <ul>
 <li>Data Selection: Consider what data is available, what data is missing and what data can be removed.</li>
@@ -10,8 +10,8 @@
 </ul>
 
 
-<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/Day%202"> Day 2 : </a> </h2>
-<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/Day%202/Support%20vector%20machine.ipynb"> Support Vector Machines: Implementation in Python </a> </h3>
+<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/code/Day%202"> Day 2 : </a> </h2>
+<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/code/Day%202/Support%20vector%20machine.ipynb"> Support Vector Machines: Implementation in Python </a> </h3>
 <p> Things learned : </p>
 <ul>
 <li>What is SVM? Concepts and theory</li>
@@ -19,8 +19,8 @@
 <li>Different Kernel SVMs and comparison</li>
 </ul>
 
-<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/Day%203"> Day 3 : </a> </h2>
-<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/Day%203/Decision-Trees-From-Scratch%20.ipynb"> Decison Trees: Implementation in Python (also sklearn implementation) </a> </h3>
+<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/code/Day%203"> Day 3 : </a> </h2>
+<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/code/Day%203/Decision-Trees-From-Scratch%20.ipynb"> Decison Trees: Implementation in Python (also sklearn implementation) </a> </h3>
 <p> Things learned : (tutorial helps from machinelearningmastery) </p>
 <ul>
 <li>How Decision Trees work</li>
@@ -28,8 +28,8 @@
 <li>Implementation in sklearn and from scratch</li>
 </ul>
 
-<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/Day%204"> Day 4 : </a> </h2>
-<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/Day%204"> Logistic Regression and Feed Forward network to recognize handwritten digits (Tensorflow) </a> </h3>
+<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/code/Day%204"> Day 4 : </a> </h2>
+<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/code/Day%204"> Logistic Regression and Feed Forward network to recognize handwritten digits (Tensorflow) </a> </h3>
 <p> Things learned : (Fundamentals of Deep Learning, Chapter 3) </p>
 <ul>
 <li>Logistic Regression on MNIST Data</li>
@@ -58,8 +58,8 @@
   <li><a href="https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures#t-1052631"> Fei-Fei Li: How we're teaching computers to understand pictures </a></li>
 </ul>
 
-<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/Day%207"> Day 7 : </a></h2>
-<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/Day%207/naive_bayes_classifier.ipynb">Naive Bayes Classification on diabetes dataset</a></h3>
+<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/code/Day%207"> Day 7 : </a></h2>
+<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/code/Day%207/naive_bayes_classifier.ipynb">Naive Bayes Classification on diabetes dataset</a></h3>
 <p> Things learned </p>
 <ul>
 <li>Implementation of Naive Bayes Classifier in python</li>
@@ -77,8 +77,8 @@
   <li>While thinking about features and input values, think about the availability of all the data at deployment time</li>
 </ul>
 
-<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/Day%209"> Day 9 : </a></h2>
-<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/Day%209/guess%20word.py">Speech Recognition with Python, a simple Guess word game</a></h3>
+<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/code/Day%209"> Day 9 : </a></h2>
+<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/code/Day%209/guess%20word.py">Speech Recognition with Python, a simple Guess word game</a></h3>
 <p> Things learned </p>
 <ul>
 <li>How to use speech recognition library in python for speech_recognition from microphone</li>
@@ -86,8 +86,8 @@
   <li>Theory of how it all works</li>
 </ul>
 
-<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/Day%2010"> Day 10 : </a></h2>
-<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/Day%2010/convolutional_neural_networks.ipynb">Convolutional Neural Networks: Introduction and Implementation</a></h3>
+<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/code/Day%2010"> Day 10 : </a></h2>
+<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/code/Day%2010/convolutional_neural_networks.ipynb">Convolutional Neural Networks: Introduction and Implementation</a></h3>
 <p> Things learned </p>
 <ul>
 <li>What are convolutional neural networks and what was the need? </li>
