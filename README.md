@@ -95,4 +95,12 @@
   <li>Implementation on MNIST data using Tensorflow</li>
 </ul>
 
+<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/code/Day%2011"> Day 11 : </a></h2>
+<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/code/Day%2011/CIFAR10_convo_neural_network.ipynb">Convolutional Neural Networks: Day 10 continued</a></h3>
+<p> Things learned </p>
+<ul>
+<li>Batch normalization and how it is helpful for training </li>
+  <li>How CIFAR 10 dataset is handled by using batch normalization</li>
+  <li>Implementation of the network</li>
+</ul>
 
