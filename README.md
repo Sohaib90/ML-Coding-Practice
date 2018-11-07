@@ -104,3 +104,12 @@
   <li>Implementation of the network</li>
 </ul>
 
+<h2>Day 12</h2>
+<h3>Chapter 6: Fundamentals of Deep Learning Book (Embedding and Representation Learning</h3>
+<p> Things learned </p>
+<ul>
+<li>Embedding and Representation Learning: A way to escape the curse of dimensionality </li>
+  <li>Principal Component Analysis: concepts and mathematical formulation study</li>
+  <li>AutoEncoders: Introduction and basic concepts</li>
+</ul>
+
