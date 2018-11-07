@@ -105,7 +105,7 @@
 </ul>
 
 <h2>Day 12</h2>
-<h3>Chapter 6: Fundamentals of Deep Learning Book (Embedding and Representation Learning</h3>
+<h3>Chapter 6: Fundamentals of Deep Learning Book (Embedding and Representation Learning)</h3>
 <p> Things learned </p>
 <ul>
 <li>Embedding and Representation Learning: A way to escape the curse of dimensionality </li>
