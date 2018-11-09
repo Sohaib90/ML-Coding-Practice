@@ -113,7 +113,7 @@
   <li>AutoEncoders: Introduction and basic concepts</li>
 </ul>
 
-<h2>Day 13</h2>
+<h2> <a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/code/Day%2013">Day 13</a></h2>
 <h3>Chapter 6 (continued): Fundamentals of Deep Learning Book (Embedding and Representation Learning)</h3>
 <p> Things learned </p>
 <ul>
