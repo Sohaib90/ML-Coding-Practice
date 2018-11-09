@@ -113,3 +113,12 @@
   <li>AutoEncoders: Introduction and basic concepts</li>
 </ul>
 
+<h2>Day 13</h2>
+<h3>Chapter 6 (continued): Fundamentals of Deep Learning Book (Embedding and Representation Learning)</h3>
+<p> Things learned </p>
+<ul>
+<li>Denoising Autoencoders: More Robust Autoencoders</li>
+  <li>Introducing Sparsity in Autoencoders</li>
+  <li>When context is important in representations: English language as an example and their representation learning</li>
+</ul>
+
