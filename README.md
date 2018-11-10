@@ -120,5 +120,6 @@
 <li>Denoising Autoencoders: More Robust Autoencoders</li>
   <li>Introducing Sparsity in Autoencoders</li>
   <li>When context is important in representations: English language as an example and their representation learning</li>
+  <li> Coded an mnist autoencoder (using dense layers) in keras </li>
 </ul>
 
