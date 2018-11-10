@@ -123,3 +123,12 @@
   <li> Coded an mnist autoencoder (using dense layers) in keras </li>
 </ul>
 
+<h2> <a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/code/Day%2014">Day 14</a></h2>
+<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/code/Day%2014/autoencoder_using_convo.ipynb">Autoencoder: Continued (Using convolutional neural networks)</a></h3>
+<p> Things learned </p>
+<ul>
+<li>Implementing Autoencoders using convolutional neural networks</li>
+  <li>Using convo layers works better than fully connected layer in terms of reconstruction</li>
+  <liComparison on the basis of number of parameters and reconstruction, also error</li>
+</ul>
+
