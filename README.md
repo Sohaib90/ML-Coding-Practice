@@ -132,3 +132,13 @@
   <liComparison on the basis of number of parameters and reconstruction, also error</li>
 </ul>
 
+<h2> <a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/code/Day%2015">Day 15</a></h2>
+<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/code/Day%2015/pytorch_tutorials.ipynb">Deep Learning and tutorials of Pytorch (A numpy based deep learning framework)</a></h3>
+<p><a href="https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html"> Pytorch tutorial: </a></p>
+<p> Things learned </p>
+<ul>
+<li>pytorch methods for building neural networks</li>
+  <li>Data loading and manipulations to tensors in pytorch</li>
+  <li>Autograd and backprop concepts in pytorch</li>
+</ul>
+
