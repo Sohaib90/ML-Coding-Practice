@@ -142,3 +142,13 @@
   <li>Autograd and backprop concepts in pytorch</li>
 </ul>
 
+<h2> <a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/code/Day%2016">Day 16</a></h2>
+<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/code/Day%2016/data_loading_preproceessing.ipynb">Data Loading and Processing with Pytorch (pytorch tutorials continued)</a></h3>
+<p><a href="https://pytorch.org/tutorials/beginner/data_loading_tutorial.html"> Pytorch tutorial: </a></p>
+<p> Things learned </p>
+<ul>
+<li>How to create your own custom dataloader</li>
+  <li>How to transform your data to make it same</li>
+  <li>How to use DataLoader pytorch class to enable batching, shuffling and parallel loading of data</li>
+</ul>
+
