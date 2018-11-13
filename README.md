@@ -152,3 +152,14 @@
   <li>How to use DataLoader pytorch class to enable batching, shuffling and parallel loading of data</li>
 </ul>
 
+<h2> Day 17</h2>
+<h3>Leraning Pytorch with Examples</h3>
+<p><a href="https://pytorch.org/tutorials/beginner/pytorch_with_examples.html"> Pytorch tutorial: </a></p>
+<p> Things learned </p>
+<ul>
+<li>Main Features of Pytorch: n-dimensional tensors, kinda like numpy arrays but can run on GPU. Second important is Automatic differentiation for building and training networks</li>
+  <li>Deeper understanding of Autograd and how pytorch builds computational graphs to computer gradients and weight updates</li>
+  <li>Difference between Tensorflow and Pytorch: Dynamic and static graph</li>
+  <li> Hw to build custom nn modules and optimizers </li>
+</ul>
+
