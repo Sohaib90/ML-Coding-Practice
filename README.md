@@ -165,7 +165,7 @@
 
 <h2> Day 18</h2>
 <h3>Transfer Learning with Pytorch</h3>
-<p><a href="https://pytorch.org/tutorials/beginner/pytorch_with_examples.html"> Pytorch tutorial: </a></p>
+<p><a href="https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html"> Pytorch tutorial: </a></p>
 <p> Things learned </p>
 <ul>
 <li>What is transfer learning and the importance of transfer learning: fine-tuning, as a fixed feature extractor</li>
