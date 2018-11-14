@@ -163,3 +163,13 @@
   <li> Hw to build custom nn modules and optimizers </li>
 </ul>
 
+<h2> Day 18</h2>
+<h3>Transfer Learning with Pytorch</h3>
+<p><a href="https://pytorch.org/tutorials/beginner/pytorch_with_examples.html"> Pytorch tutorial: </a></p>
+<p> Things learned </p>
+<ul>
+<li>What is transfer learning and the importance of transfer learning: fine-tuning, as a fixed feature extractor</li>
+  <li>Constraints of Transfer learning</li>
+  <li>Implementation of transfer learning using pytorch (help from pytorch tutorial)</li>
+</ul>
+
