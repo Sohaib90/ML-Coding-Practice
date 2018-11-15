@@ -174,6 +174,6 @@
 </ul>
 
 <h2>Day 19 </h2>
-<h3>Recurrent Neural Networks and Sequence-to-Sequence</h3>
-<p><a href="https://www.youtube.com/watch?time_continue=1777&v=G5RY_SUJih4"> Lecture: </a></p>
+<h3>Recurrent Neural Networks and Sequence-to-Sequence (Tutorials and concepts)</h3>
+<p><a href="https://www.youtube.com/watch?time_continue=1777&v=G5RY_SUJih4"> Lecture </a></p>
 
