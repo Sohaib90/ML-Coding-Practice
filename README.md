@@ -163,8 +163,8 @@
   <li> Hw to build custom nn modules and optimizers </li>
 </ul>
 
-<h2> Day 18</h2>
-<h3>Transfer Learning with Pytorch</h3>
+<h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/code/Day%2017"> Day 18 </a></h2>
+<h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/code/Day%2017/hymenoptera_data.zip">Transfer Learning with Pytorch</a></h3>
 <p><a href="https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html"> Pytorch tutorial: </a></p>
 <p> Things learned </p>
 <ul>
