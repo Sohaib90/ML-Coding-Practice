@@ -177,3 +177,7 @@
 <h3>Recurrent Neural Networks and Sequence-to-Sequence (Tutorials and concepts)</h3>
 <p><a href="https://www.youtube.com/watch?time_continue=1777&v=G5RY_SUJih4"> Lecture </a></p>
 
+<h2>Day 20 </h2>
+<h3>How Google does Machine Learning (Learning google cloud platform and ML APIs)</h3>
+<p>The course took 5 days with extensive lab introduction and practice</p>
+
