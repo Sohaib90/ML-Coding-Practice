@@ -1,4 +1,4 @@
-# 100-Days-of-ML-Code
+# Machine Learning Practice
 <h2><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/tree/master/code/Day1"> Day 1 : </a> </h2>
 <h3><a href="https://github.com/Sohaib90/100-Days-of-ML-Code/blob/master/code/Day1/Data%20Pre-processing%20.ipynb"> Data Preprocessing for Machine Leanring Models</a> </h3>
 <p> Things learned : </p>
